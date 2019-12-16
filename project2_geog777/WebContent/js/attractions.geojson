@@ -1,0 +1,17 @@
+var attractions = {"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.47590258652762,37.79491158136601]},"properties":{"Id":0,"Name":"Lincoln Statue","Popularity":1}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.47973946739953,37.79562541966776]},"properties":{"Id":0,"Name":"Monet Statue","Popularity":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.47887691278491,37.79845102961218]},"properties":{"Id":0,"Name":"Memorial Plaque","Popularity":1}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.47876388838715,37.799564617362904]},"properties":{"Id":0,"Name":"Art Piece 1","Popularity":3}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.47676514114225,37.800421223325]},"properties":{"Id":0,"Name":"Piano Statue","Popularity":4}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.47094735898298,37.8001356880043]},"properties":{"Id":0,"Name":"Apollo Statue","Popularity":4}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.47080459132263,37.79631665308994]},"properties":{"Id":0,"Name":"Art Piece 2","Popularity":4}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.46775293258266,37.79749924520985]},"properties":{"Id":0,"Name":"Bronze Statue","Popularity":1}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.46584936377799,37.79616079839407]},"properties":{"Id":0,"Name":"Cool Peak","Popularity":1}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.4644514304371,37.79324595866192]},"properties":{"Id":0,"Name":"Chill View","Popularity":1}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.46028737367689,37.79342441823736]},"properties":{"Id":0,"Name":"Memorial 2","Popularity":2}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.45505255946408,37.79827257003674]},"properties":{"Id":0,"Name":"Silver Statue","Popularity":2}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.45885969707341,37.79083675439352]},"properties":{"Id":0,"Name":"Gold Statue","Popularity":3}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.46329501238823,37.79705190654075]},"properties":{"Id":0,"Name":"Bear Shrine","Popularity":4}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.47120315104111,37.80627350766884]},"properties":{"Id":0,"Name":"Chill View 2","Popularity":1}}
+]};
